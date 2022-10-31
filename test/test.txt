@@ -8,3 +8,5 @@ test -u
 test -u2
 test -u3
 test -u4
+
+test -u uptream2 1
