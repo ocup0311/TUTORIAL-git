@@ -7,3 +7,4 @@ push 上傳內容至遠端數據庫
 test -u
 test -u2
 test -u3
+test -u4
