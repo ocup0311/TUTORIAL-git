@@ -5,3 +5,4 @@ pull 取得遠端數據庫的內容
 status 查看狀態
 push 上傳內容至遠端數據庫
 test -u
+test -u2
