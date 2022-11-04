@@ -10,3 +10,5 @@ test -u3
 test -u4
 
 test -u uptream2 1
+
+test fetch
